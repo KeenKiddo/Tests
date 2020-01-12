@@ -1,0 +1,22 @@
+* {
+	font-family: Garamond;
+}
+
+th {
+	background-color: #668284;
+	color: white;
+}
+tr {
+	background-color: #F4EBC3;
+}
+
+td {
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+caption {
+	background-color: #B9D7D9;
+	font-size: 2em;
+}
